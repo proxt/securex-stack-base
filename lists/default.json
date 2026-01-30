@@ -1,83 +1,100 @@
 {
-  "version": 1,
-  "updated_at": "2026-01-30",
-  "domains": [
-    "youtube.com",
-    "googlevideo.com",
-    "ytimg.com",
-    "youtubei.googleapis.com",
+  "version": 2,
+  "updated_at": "2026-02-01",
+  "groups": {
+    "video": {
+      "title": "Видео и стриминг",
+      "domains": [
+        "youtube.com",
+        "googlevideo.com",
+        "ytimg.com",
+        "youtubei.googleapis.com",
+        "netflix.com",
+        "nflxvideo.net",
+        "nflximg.net",
+        "nflxext.com",
+        "twitch.tv",
+        "ttvnw.net",
+        "kick.com"
+      ]
+    },
 
-    "instagram.com",
-    "cdninstagram.com",
-    "fbcdn.net",
+    "social": {
+      "title": "Социальные сети",
+      "domains": [
+        "instagram.com",
+        "cdninstagram.com",
+        "facebook.com",
+        "fbcdn.net",
+        "messenger.com",
+        "twitter.com",
+        "x.com",
+        "linkedin.com",
+        "imgur.com",
+        "deviantart.com",
+        "pixiv.net",
+        "onlyfans.com"
+      ]
+    },
 
-    "facebook.com",
-    "messenger.com",
+    "chat": {
+      "title": "Мессенджеры и сообщества",
+      "domains": [
+        "discord.com",
+        "discord.gg",
+        "discordapp.com"
+      ]
+    },
 
-    "twitter.com",
-    "x.com",
+    "music": {
+      "title": "Музыка",
+      "domains": [
+        "spotify.com",
+        "scdn.co",
+        "soundcloud.com"
+      ]
+    },
 
-    "discord.com",
-    "discord.gg",
-    "discordapp.com",
+    "ai": {
+      "title": "AI сервисы",
+      "domains": [
+        "openai.com",
+        "chatgpt.com"
+      ]
+    },
 
-    "tiktok.com",
-    "tiktokcdn.com",
+    "content": {
+      "title": "Контент и медиа",
+      "domains": [
+        "medium.com",
+        "patreon.com",
+        "archive.org",
+        "bbc.com",
+        "bbci.co.uk",
+        "dw.com"
+      ]
+    },
 
-    "netflix.com",
-    "nflxvideo.net",
-    "nflximg.net",
-    "nflxext.com",
+    "dev": {
+      "title": "Разработка и CDN",
+      "domains": [
+        "github.com",
+        "githubusercontent.com",
+        "raw.githubusercontent.com",
+        "cloudflare.com",
+        "cdnjs.cloudflare.com"
+      ]
+    },
 
-    "spotify.com",
-    "scdn.co",
-
-    "openai.com",
-    "chatgpt.com",
-
-    "medium.com",
-
-    "patreon.com",
-
-    "soundcloud.com",
-
-    "imgur.com",
-
-    "linkedin.com",
-
-    "cloudflare.com",
-    "cdnjs.cloudflare.com",
-
-    "github.com",
-    "githubusercontent.com",
-    "raw.githubusercontent.com",
-
-    "bbc.com",
-    "bbci.co.uk",
-
-    "dw.com",
-
-    "rutracker.org",
-
-    "thepiratebay.org",
-
-    "archive.org",
-
-    "kick.com",
-
-    "twitch.tv",
-    "ttvnw.net",
-
-    "pixiv.net",
-
-    "deviantart.com",
-
-    "onlyfans.com",
-
-    "canva.com",
-
-    "notion.so",
-
-    "revolut.com"
-  ]
+    "other": {
+      "title": "Прочее",
+      "domains": [
+        "rutracker.org",
+        "thepiratebay.org",
+        "canva.com",
+        "notion.so",
+        "revolut.com"
+      ]
+    }
+  }
 }
