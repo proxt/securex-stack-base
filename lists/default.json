@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "updated_at": "2026-01-30",
+  "domains": [
+    "youtube.com",
+    "googlevideo.com",
+    "ytimg.com",
+    "youtubei.googleapis.com",
+
+    "instagram.com",
+    "cdninstagram.com",
+    "fbcdn.net",
+
+    "facebook.com",
+    "messenger.com",
+
+    "twitter.com",
+    "x.com",
+
+    "discord.com",
+    "discord.gg",
+    "discordapp.com",
+
+    "tiktok.com",
+    "tiktokcdn.com",
+
+    "netflix.com",
+    "nflxvideo.net",
+    "nflximg.net",
+    "nflxext.com",
+
+    "spotify.com",
+    "scdn.co",
+
+    "openai.com",
+    "chatgpt.com",
+
+    "medium.com",
+
+    "patreon.com",
+
+    "soundcloud.com",
+
+    "imgur.com",
+
+    "linkedin.com",
+
+    "cloudflare.com",
+    "cdnjs.cloudflare.com",
+
+    "github.com",
+    "githubusercontent.com",
+    "raw.githubusercontent.com",
+
+    "bbc.com",
+    "bbci.co.uk",
+
+    "dw.com",
+
+    "rutracker.org",
+
+    "thepiratebay.org",
+
+    "archive.org",
+
+    "kick.com",
+
+    "twitch.tv",
+    "ttvnw.net",
+
+    "pixiv.net",
+
+    "deviantart.com",
+
+    "onlyfans.com",
+
+    "canva.com",
+
+    "notion.so",
+
+    "revolut.com"
+  ]
+}
